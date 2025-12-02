@@ -6,19 +6,19 @@ const HeaderSlider = () => {
   const sliderData = [
     {
       id: 1,
-      title: "Experience Pure Sound - Your Perfect Headphones Awaits!",
-      offer: "Limited Time Offer 30% Off",
+      title: "Your Perfect Headphones Awaits!",
+      offer: "Black Friday Offer 60% Off",
       buttonText1: "Buy now",
-      buttonText2: "Find more",
-      imgSrc: assets.header_headphone_image,
+      buttonText2: "More Accieved",
+      imgSrc: assets.jbl_soundbox_image
     },
     {
       id: 2,
-      title: "Next-Level Gaming Starts Here - Discover PlayStation 5 Today!",
-      offer: "Hurry up only few lefts!",
+      title: " Here - Discover PlayStation 5 Today!",
+      offer: "Hurry up only few lefts of products!",
       buttonText1: "Shop Now",
-      buttonText2: "Explore Deals",
-      imgSrc: assets.header_playstation_image,
+      buttonText2: "Explore More",
+      imgSrc: assets.bose_headphone_image,
     },
     {
       id: 3,

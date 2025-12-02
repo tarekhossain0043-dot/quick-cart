@@ -1,12 +1,14 @@
 {
   "name": "ecommerce-inngest",
   "version": "0.1.0",
+  "homepage": "https://tarekhossain0043-dot.github.io/ecommerce-inngest",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy" : "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "next": "15.1.6",
