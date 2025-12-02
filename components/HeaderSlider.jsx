@@ -10,7 +10,7 @@ const HeaderSlider = () => {
       offer: "Black Friday Offer 60% Off",
       buttonText1: "Buy now",
       buttonText2: "More Accieved",
-      imgSrc: assets.jbl_soundbox_image
+      imgSrc: assets.cannon_camera_image
     },
     {
       id: 2,
